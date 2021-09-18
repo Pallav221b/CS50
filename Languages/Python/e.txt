@@ -1,0 +1,7 @@
+Dwight - Salesman
+Jim - Salesman
+Pam - Receptionist
+Michael - Manager
+Kevin - Accountant
+Creed - Quality Assurance
+Ryan - Temp

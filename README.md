@@ -1,1 +1,1 @@
-# CS50
+# Don't tamper with the branches or they will be pruned 😄
